@@ -1,6 +1,6 @@
 # INNOMATICS-INTERNSHIP-ADVANCE-GEN_AI
 
-# Python Basics Assignment – Log and Data Processing
+# Logic Building Task – 1
 
 ## Overview
 
@@ -154,7 +154,7 @@ python filename.py
 ## Repository Structure
 
 ```
-filename.py
+TASK_1_INNOMATICS_INTERNSHIP.py
 README.md
 ```
 
